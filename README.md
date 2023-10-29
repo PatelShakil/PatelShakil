@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelshakil" alt="patelshakil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/patelsakib95" target="blank"><img src="https://img.shields.io/twitter/follow/patelsakib95?logo=twitter&style=for-the-badge" alt="patelsakib95" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mshakilpat51524" target="blank"><img src="https://img.shields.io/twitter/follow/mshakilpat51524?logo=twitter&style=for-the-badge" alt="mshakilpat51524" /></a> </p>
 
 - 🔭 I’m currently working on [ByteBuddy](github.com/PatelShakil/ByteBuddy)
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/patelsakib95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patelsakib95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadshakil mustak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadshakil mustak" height="30" width="40" /></a>
+<a href="https://twitter.com/mshakilpat51524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshakilpat51524" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadshakil-mustak-75775623a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadshakil-mustak-75775623a" height="30" width="40" /></a>
 <a href="https://fb.com/sakib patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakib patel" height="30" width="40" /></a>
 <a href="https://instagram.com/patelshakil95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patelshakil95" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/m.shakil patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m.shakil patel" height="30" width="40" /></a>
