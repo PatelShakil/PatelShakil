@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Patelshakil&icon=0&color=6)](https://visitcount.itsvg.in)
-
 # 👋 I'm M. Shakil Patel
 
 🎓 M.Sc. ICT (VNSGU) | 💻 Software Engineer | 🧠 Tech Enthusiast  
