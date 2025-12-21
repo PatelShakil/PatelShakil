@@ -277,6 +277,6 @@ I'm always excited to collaborate on innovative projects, discuss system archite
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PatelShakil&color=brightgreen&style=for-the-badge)
 
-⭐️ **From [Muhammad Shakil Patel](https://github.com/PatelShakil)** with 💙
+⭐️ **From [MuhammadShakil Patel](https://github.com/PatelShakil)** with 💙
 
 </div>
